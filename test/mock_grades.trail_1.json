@@ -1,0 +1,196 @@
+{
+    "semesters": [
+        {
+            "semester": 1,
+            "grades": [
+                {
+                    "type": "homework",
+                    "date": "09/27/2013",
+                    "grade": 100,
+                    "avg": 93,
+                    "std": 8
+                },
+                {
+                    "type": "homework",
+                    "date": "09/28/2013",
+                    "grade": 100,
+                    "avg": 60,
+                    "std": 25
+                },
+                {
+                    "type": "homework",
+                    "date": "09/29/2013",
+                    "grade": 90,
+                    "avg": 95,
+                    "std": 25
+                },
+                {
+                    "type": "homework",
+                    "date": "09/30/2013",
+                    "grade": 95,
+                    "avg": 85,
+                    "std": null
+                },
+                {
+                    "type": "quiz",
+                    "date": "09/30/2013",
+                    "grade": 100,
+                    "avg": 98,
+                    "std": 2
+                },
+                {
+                    "type": "homework",
+                    "date": "10/1/2013",
+                    "grade": 100,
+                    "avg": null,
+                    "std": null
+                },
+                {
+                    "type": "homework",
+                    "date": "10/3/2013",
+                    "grade": 100,
+                    "avg": null,
+                    "std": null
+                },
+                {
+                    "type": "test",
+                    "date": "10/4/2013",
+                    "grade": 93,
+                    "avg": 90,
+                    "std": 5
+                },
+                {
+                    "type": "homework",
+                    "date": "10/6/2013",
+                    "grade": 84,
+                    "avg": 90,
+                    "std": 3
+                },
+                {
+                    "type": "quiz",
+                    "date": "10/7/2013",
+                    "grade": 80,
+                    "avg": null,
+                    "std": null
+                },
+                {
+                    "type": "test",
+                    "date": "10/10/2013",
+                    "grade": 94,
+                    "avg": 95,
+                    "std": 5
+                },
+                {
+                    "type": "homework",
+                    "date": "10/11/2013",
+                    "grade": 100,
+                    "avg": 90,
+                    "std": 3
+                },
+                {
+                    "type": "final_exam",
+                    "date": "12/17/2013",
+                    "grade": 93,
+                    "avg": 90,
+                    "std": 8
+                }
+            ]
+        },
+        {
+            "semester": 2,
+            "grades": [
+                {
+                    "type": "homework",
+                    "date": "1/16/2014",
+                    "grade": 100,
+                    "avg": 93,
+                    "std": 8
+                },
+                {
+                    "type": "homework",
+                    "date": "1/17/2014",
+                    "grade": 80,
+                    "avg": 100,
+                    "std": 10
+                },
+                {
+                    "type": "homework",
+                    "date": "1/18/2014",
+                    "grade": 90,
+                    "avg": 95,
+                    "std": 25
+                },
+                {
+                    "type": "homework",
+                    "date": "1/19/2014",
+                    "grade": 74,
+                    "avg": 85,
+                    "std": null
+                },
+                {
+                    "type": "quiz",
+                    "date": "1/20/2014",
+                    "grade": 100,
+                    "avg": 98,
+                    "std": 2
+                },
+                {
+                    "type": "homework",
+                    "date": "1/22/2014",
+                    "grade": 100,
+                    "avg": null,
+                    "std": null
+                },
+                {
+                    "type": "homework",
+                    "date": "1/23/2014",
+                    "grade": 95,
+                    "avg": null,
+                    "std": null
+                },
+                {
+                    "type": "test",
+                    "date": "1/25/2014",
+                    "grade": 96,
+                    "avg": 89,
+                    "std": 7
+                },
+                {
+                    "type": "homework",
+                    "date": "1/27/2014",
+                    "grade": 84,
+                    "avg": 90,
+                    "std": 3
+                },
+                {
+                    "type": "homework",
+                    "date": "1/28/2014",
+                    "grade": 100,
+                    "avg": null,
+                    "std": null
+                },
+                {
+                    "type": "quiz",
+                    "date": "1/29/2014",
+                    "grade": 98,
+                    "avg": 99,
+                    "std": 3
+                },
+                {
+                    "type": "homework",
+                    "date": "2/11/2014",
+                    "grade": 100,
+                    "avg": 100,
+                    "std": null
+                },
+                {
+                    "type": "final_exam",
+                    "date": "4/17/2014",
+                    "grade": 86,
+                    "avg": 85,
+                    "std": 15
+                }
+            ]
+        }
+    ]
+}

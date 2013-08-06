@@ -1,0 +1,20 @@
+{
+	"title" : "Grade Tracker",
+	"type" : "object",
+	"properties" : {
+		"semesters" : {
+			"type" : "array",
+			"items" : {"semester": 1}
+		},
+		"grades" : {
+			"type" : "array",
+			"items" : {
+				 "type": "homework",
+                    "date": "09/27/2013",
+                    "grade": 100,
+                    "avg": 93,
+                    "std": 8
+			}
+		}
+	}
+}
